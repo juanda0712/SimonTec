@@ -34,3 +34,14 @@ Los distintos niveles de dificultad van aumentando la velocidad de la secuencia 
 
 [logo1]: https://github.com/juanda0712/SimonTec/raw/gh-pages/planIteraciones.png "Logo Title Text 2"
 
+
+## Diagrama conceptual
+
+![alt text][logo2]
+
+[logo2]: https://github.com/juanda0712/SimonTec/raw/gh-pages/planIteraciones.png "Logo Title Text 2"
+
+![alt text][logo3]
+
+[logo3]: https://github.com/juanda0712/SimonTec/raw/gh-pages/planIteraciones.png "Logo Title Text 2"
+
