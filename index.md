@@ -43,3 +43,8 @@ Los distintos niveles de dificultad van aumentando la velocidad de la secuencia 
 
 [logo3]: https://github.com/juanda0712/SimonTec/raw/gh-pages/diagrama%20conceptual%202.png "Logo Title Text 2"
 
+## Diagrama de clase
+
+![alt text][logo4]
+
+[logo4]: https://github.com/juanda0712/SimonTec/raw/gh-pages/diagrama%20conceptual%202.png "Logo Title Text 2"
