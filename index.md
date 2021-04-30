@@ -1,4 +1,4 @@
-#SimonTEC
+#  SimonTEC
 
 ## Descripcion
 
@@ -39,9 +39,9 @@ Los distintos niveles de dificultad van aumentando la velocidad de la secuencia 
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/juanda0712/SimonTec/raw/gh-pages/planIteraciones.png "Logo Title Text 2"
+[logo2]: https://github.com/juanda0712/SimonTec/raw/gh-pages/diagrama%20conceptual.png "Logo Title Text 2"
 
 ![alt text][logo3]
 
-[logo3]: https://github.com/juanda0712/SimonTec/raw/gh-pages/planIteraciones.png "Logo Title Text 2"
+[logo3]: https://github.com/juanda0712/SimonTec/raw/gh-pages/diagrama%20conceptual%202.png "Logo Title Text 2"
 
