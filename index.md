@@ -1,4 +1,5 @@
-## Descripcion
+##SimonTEC
+### Descripcion
 
 SimonTEC es un juego de memoria que consiste en un círculo compuesto de cuatro cuadrantes, cada
 uno con un color: verde, rojo, azul y amarillo. El juego de forma aleatoria va iluminando los
